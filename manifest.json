@@ -1,0 +1,15 @@
+{
+    "short_name": "Salus",
+    "name": "Salus",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#000000"
+  }
